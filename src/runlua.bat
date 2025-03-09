@@ -1,7 +1,7 @@
 @echo off
 :: config
-set LUA_EXE=D:\Programs\luaJIT21\luajit.exe
-set TARGET_FILE=main.lua
+set LUA_EXE=
+set TARGET_FILE=
 
 
 :: code
